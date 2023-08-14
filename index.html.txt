@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ayyeye Sevgi Mesajı</title>
+</head>
+<body>
+    <h1>Seni çok seviyorum balıımmm!</h1>
+</body>
+</html>
